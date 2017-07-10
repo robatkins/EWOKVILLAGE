@@ -1,2 +1,2 @@
 # EWOKVILLAGE
-Java client for communicating with the Silicon Don server.
+Java client for communicating with the SILICONDON server.
